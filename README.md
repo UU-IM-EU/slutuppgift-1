@@ -3,6 +3,8 @@ Material för slutuppgift 1
 
 För att genomföra dennauppgift behöver ni installera Anaconda och klona detta repositorie via commandoprompten. Se nedan för övriga installationsinstruktioner (engelska)
 
+Kör gärna uppgiften idenna notebook: `Data Analytics Assignment.ipynb`
+
 ## Base requirements:
 
 Git SCM
@@ -22,7 +24,7 @@ graphviz for Decision Tree visualization
 Windows does not usually ship with Git installed. You may need to install Git to clone this repository.
 
 ## Set up using Anaconda
-The most straightforward way to install the requirements if you do not already have Python 3 installed is to download and install Anaconda for Python 3.
+The most straightforward way to install the requirements if you do not already have Python 3 installed is to download and install [Anaconda for Python 3](https://www.anaconda.com/download/).
 
 Download and install graphviz for Windows.
 
@@ -30,7 +32,7 @@ Download and install graphviz for Windows.
 
 To install the required Python packages, after you have installed Anaconda you can open the Anaconda Prompt and run the following command from the root directory of this repository:
 
-pip install -r requirements.txt
+ pip install -r requirements.txt
 
 You can then launch Jupyter from the Anaconda Navigator application.
 
@@ -40,9 +42,9 @@ Mac OSX comes with Git already installed.
 ## Set up using Anaconda
 The most straightforward way to install the requirements if you do not already have Python 3 installed is to download and install Anaconda for Python 3.
 
-Download and install graphviz for Mac OSX.
+Download and install  [graphviz](http://graphviz.org/download/) for MacOSX.
 
-Download or git clone (from the Terminal) this repository to your computer.
+Download or `git clone` (from the Terminal) this repository to your computer.
 
 To install the required Python packages, after you have installed Anaconda you can open the Terminal and run the following command from the root directory of this repository:
 
