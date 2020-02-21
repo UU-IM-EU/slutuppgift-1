@@ -1,7 +1,7 @@
 # Slutuppgift-1
 Material för slutuppgift 1
 
-För att genomföra dennauppgift behöver ni installera Anaconda och klona detta repositorie via commandoprompten. 
+För att genomföra dennauppgift behöver ni installera Anaconda och klona detta repositorie via commandoprompten. Se nedan för övriga installationsinstruktioner (engelska)
 
 ## Base requirements:
 
