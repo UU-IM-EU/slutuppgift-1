@@ -21,14 +21,14 @@ Jupyter
 graphviz for Decision Tree visualization
 
 ## For Windows
-Windows does not usually ship with Git installed. You may need to install Git to clone this repository.
+Windows does not usually ship with Git installed. You may need to install [Git](https://git-scm.com/) to clone this repository.
 
 ## Set up using Anaconda
 The most straightforward way to install the requirements if you do not already have Python 3 installed is to download and install [Anaconda for Python 3](https://www.anaconda.com/download/).
 
 Download and install graphviz for Windows.
 
-# Download or git clone (from the Command Prompt) this repository to your computer.
+Download or `git clone` (from the Command Prompt) this repository to your computer.
 
 To install the required Python packages, after you have installed Anaconda you can open the Anaconda Prompt and run the following command from the root directory of this repository:
 
@@ -40,9 +40,9 @@ You can then launch Jupyter from the Anaconda Navigator application.
 Mac OSX comes with Git already installed.
 
 ## Set up using Anaconda
-The most straightforward way to install the requirements if you do not already have Python 3 installed is to download and install Anaconda for Python 3.
+The most straightforward way to install the requirements if you do not already have Python 3 installed is to download and install [Anaconda for Python 3](https://www.anaconda.com/download/).
 
-Download and install  [graphviz](http://graphviz.org/download/) for MacOSX.
+Download and install [graphviz](http://graphviz.org/download/) for Mac OSX.
 
 Download or `git clone` (from the Terminal) this repository to your computer.
 
