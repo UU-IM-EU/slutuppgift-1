@@ -1,7 +1,9 @@
 # Slutuppgift-1
 Material för slutuppgift 1
 
-För att genomföra dennauppgift behöver ni installera Anaconda och klona detta repositorie via commandoprompten. Se nedan för övriga installationsinstruktioner (engelska)
+För att genomföra denna uppgift behöver ni installera Anaconda och klona detta repositorie via commandoprompten. Se nedan för övriga installationsinstruktioner (engelska)
+
+Ni behöver också ladda ner den datafil ni ska använda som är för stor för att lagras här. Detta gör ni på följande adress: https://www.kaggle.com/rounak041993/traffic-violations-in-maryland-county. Filen ska sedan läggas i samma folder som ert klonade repositorie. 
 
 Kör gärna uppgiften idenna notebook: `Data Analytics Assignment.ipynb`
 
